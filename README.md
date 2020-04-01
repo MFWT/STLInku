@@ -16,11 +16,11 @@
 
 本项目使用到了以下软件，在此表示感谢！
 
-* [nginx](nginx.org)
-* [ffmpeg](ffmpeg.org)
-* [酷Q机器人](cqp.cc)
-* [Streamlink](streamlink.github.io)
-* [易语言](www.dywt.com.cn)
+* [nginx](https://nginx.org/)
+* [ffmpeg](https://ffmpeg.org/)
+* [酷Q机器人](https://cqp.cc/)
+* [Streamlink](https://streamlink.github.io/)
+* [易语言](https://www.dywt.com.cn/)
 
 ---
 
