@@ -59,7 +59,7 @@ STLInku的原理并不难，见如下流程 “字”：
 
 这个步骤可以参考其他文章，这里就不再阐述了。**如果使用HTTPS，请注意编译安装nginx时带上SSL选项**
 
-SSL证书申请可以使用[acme.sh](acme.sh)
+SSL证书申请可以使用[acme.sh](http://acme.sh/)
 
 安装完成后，修改nginx.conf，调整如下内容**并重启nginx**，如下图所示
 
